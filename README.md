@@ -92,10 +92,13 @@ pip install -r requirements.locked.txt
 
 As for the training method of the model in another service and code, we will gradually move it to that repo.
 
+## Data availability
+An example of the code is provided along with data for 1 m at https://doi.org/10.5525/gla.researchdata.751. Download and place into `data` folder.
+
 ## Pretrained Checkpoints
 Link: https://drive.google.com/drive/folders/1ObTHnU-u68aTiOBBFe-pJxsI_HRVCqGK?usp=drive_link
 
-These checkpoint files should be placed in the correct folder in **Project Structure**. `model` and `data` folder.
+These checkpoint files should be placed in the correct folder in **Project Structure**. Download and place into `model` folder.
 
 ## Acknowledgement
 
