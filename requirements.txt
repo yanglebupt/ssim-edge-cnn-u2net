@@ -1,0 +1,17 @@
+h5py
+numpy
+opencv-python
+matplotlib
+scikit-image
+torch
+torchvision
+timm
+tqdm
+einops
+scipy
+
+# ipython
+
+# (python3.8 builtin module)
+# typing 
+# math

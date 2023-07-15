@@ -1,0 +1,8 @@
+**/__pycache__
+.ipynb_checkpoints 
+swin-model-res
+model/*.pkl
+data/*.h5
+train-com.ipynb
+trains/swin_transformer_ann.py
+_
