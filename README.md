@@ -96,7 +96,7 @@ As for the training method of the model in another service and code, we will gra
 Original data for 1 m MMF speckle at https://doi.org/10.5525/gla.researchdata.751. Download and place into `data` folder.
 
 ## Pretrained Checkpoints
-Link: https://drive.google.com/drive/folders/1ObTHnU-u68aTiOBBFe-pJxsI_HRVCqGK?usp=drive_link
+Link: https://drive.google.com/drive/folders/14aNid5iSMKFj9R_T-CY5-1omyewJ9dL2?usp=sharing
 
 These checkpoint files should be placed in the correct folder in **Project Structure**. Download and place into `model` folder.
 
